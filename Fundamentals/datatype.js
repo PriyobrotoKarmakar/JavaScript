@@ -10,3 +10,21 @@ age = 78;
 
 console.log(age)
 // console.log(name)
+
+console.log(typeof age);
+console.log(typeof(name))
+
+//number
+let value = 5;
+console.log(10*value);
+
+//string
+let st = "this is string";
+
+//undefined
+let a;
+console.log(a)
+
+//null
+console.log(typeof null)//object
+//then 
